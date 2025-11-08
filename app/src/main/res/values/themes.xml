@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Law_article" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:statusBarColor">#132D8F</item>
+    </style>
+
+    <style name="Theme.Law_article" parent="Base.Theme.Law_article" />
+    <style name="Widget.App.CheckBox" parent="Widget.Material3.CompoundButton.CheckBox">
+        <item name="materialThemeOverlay">@style/ThemeOverlay.App.CheckBox</item>
+    </style>
+    <style name="ThemeOverlay.App.CheckBox" parent="">
+        <item name="colorPrimary">#18488F</item>
+    </style>
+</resources>

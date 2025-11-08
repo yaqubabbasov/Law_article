@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "924966107876",
+    "project_id": "lawarticle-96b7b",
+    "storage_bucket": "lawarticle-96b7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924966107876:android:fec6a2e8286fdb79f3caf1",
+        "android_client_info": {
+          "package_name": "com.yaqubabbasov.law_article"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxrZZB7eWfpHptJjG6AGWrZFhsGix5fuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
